@@ -10,12 +10,9 @@ class Dog
   end
   
   def bark
-    puts 
+    puts "woof!"
   end
   
-  def name
-  
-  end
 
 end
 
