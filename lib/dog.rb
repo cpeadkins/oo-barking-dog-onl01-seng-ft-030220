@@ -8,6 +8,14 @@ class Dog
   def name
   
   end
+  
+  def bark
+    puts 
+  end
+  
+  def name
+  
+  end
 
 end
 
